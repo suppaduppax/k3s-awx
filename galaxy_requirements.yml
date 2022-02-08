@@ -1,0 +1,8 @@
+collections:
+  - community.general
+  - community.vmware
+  - kubernetes.core
+
+  - name: Personal homelab collection
+    type: git
+    source: ssh://git@github.com/suppaduppax/ansible-collection.git 
